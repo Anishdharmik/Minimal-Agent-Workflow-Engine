@@ -1,4 +1,4 @@
-# Minimal Agent Workflow Engine (AI Engineering Assignment)
+# Minimal Agent Workflow Engine 
 
 This project is a small backend-only workflow / graph engine built with **FastAPI**.
 
